@@ -4,8 +4,6 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 '''
-IST 597: Foundations of Deep Learning
-Problem 1: Univariate Regression
 @author - Alexander G. Ororbia II
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
