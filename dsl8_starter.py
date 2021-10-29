@@ -25,11 +25,11 @@ n_epoch = 1 # number of epochs (full passes through the dataset)
 
 # begin simulation
 
-def regress(X, theta):
+def regress(X, theta): # used to get predicted value, y_hat
 	# WRITEME: write your code here to complete the routine
 	return -1.0
 
-def gaussian_log_likelihood(mu, y):
+def sum_squared_error(y, y_hat):
 	# WRITEME: write your code here to complete the sub-routine
 	return -1.0
 
