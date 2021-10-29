@@ -33,7 +33,7 @@ def gaussian_log_likelihood(mu, y):
 	# WRITEME: write your code here to complete the sub-routine
 	return -1.0
 
-def computeCost(X, y, theta): # loss is now Bernoulli cross-entropy/log likelihood
+def computeCost(X, y, theta): # this is the loss function
 	# WRITEME: write your code here to complete the routine
 	return -1.0
 
